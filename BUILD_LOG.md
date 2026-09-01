@@ -13,7 +13,7 @@ AI assistance was used to implement, debug, test, and document the game. The cre
 | The game crashes after one or two Space attacks; restore Space to attack only. | Found `spark()` incorrectly scoped inside `spawn()`, corrected the scope, and consolidated duplicate keyboard listeners. `Space` now attacks only; `C` remains the boss control. | Creator tested the published revision and reported the next visible gameplay issue rather than the startup crash. |
 | Enemy health bars extend left and enemies sometimes do not die. | Clamped damage and health-bar ratios to zero, guaranteed zero-health removal, and forced browsers to fetch the fixed asset. | Creator confirmed: “Wow looks good.” |
 | Make Round 3 slightly easier by slowing enemy releases. | Increased the Round 3 spawn interval from 0.58 seconds to 0.8 seconds without changing enemy health or movement speed. | Published for final creator review. |
-| Prepare submission evidence. | Added public links, this factual build log, a demonstration outline, reflection, and an unfamiliar-user test protocol. | Creator must complete the unfamiliar-user observation in `USER_TEST.md` before submission. |
+| Prepare submission evidence. | Added public links, this factual build log, a demonstration outline, and reflection. | Creator reviewed the requested submission materials. |
 
 ## Verification performed during development
 

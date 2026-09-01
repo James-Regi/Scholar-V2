@@ -7,7 +7,6 @@ Scholar Slash is a browser fighting game in which a student clears waves of anim
 - **Public game:** https://james-regi.github.io/Scholar-V2/
 - **Repository/source:** https://github.com/James-Regi/Scholar-V2
 - **AI/build log:** [BUILD_LOG.md](BUILD_LOG.md)
-- **Unfamiliar-user test:** [USER_TEST.md](USER_TEST.md)
 
 Both public URLs were checked without GitHub authentication on September 1, 2026 and returned HTTP 200.
 
@@ -25,7 +24,7 @@ Both public URLs were checked without GitHub authentication on September 1, 2026
 3. Demonstrate movement and a normal Space attack.
 4. Defeat a textbook, collect its dropped study power, and use `K`.
 5. Explain that three increasingly difficult rounds lead to the final boss, where `C` controls the jetpack laser.
-6. Show this repository and briefly point to the build and user-test records.
+6. Show this repository and briefly point to the build record.
 
 ## Reflection
 
