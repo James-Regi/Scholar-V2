@@ -5,7 +5,7 @@ const keys={left:false,right:false};
 const waves=[
  {normal:5,delay:3.3,speed:58,hp:56},
  {normal:7,delay:1.55,speed:112,hp:72},
- {normal:8,delay:.58,speed:158,hp:88}
+ {normal:8,delay:.8,speed:158,hp:88}
 ];
 const books=[
  {name:'CHEMISTRY',sub:'Organic Chemistry',color:'#59d4bf',power:'CORROSIVE POTION',desc:'K throws a potion that damages nearby books over time.',type:'potion'},
